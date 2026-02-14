@@ -111,3 +111,5 @@ dist
 *.tex
 *.tex.bak
 *.pdf
+*.html
+*.html.bak
