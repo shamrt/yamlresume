@@ -22,3 +22,12 @@ content:
     - network: GitHub
       url: https://github.com/shamrt
       username: shamrt
+  education:
+    - institution: York University
+      degree: Bachelor
+      area: Psychology (Specialized Honours)
+      score: "8.63/9.00"
+      startDate: Sep 1, 2010
+      endDate: Apr 30, 2015
+      summary: |
+        Graduated summa cum laude. Research focused on meta-cognition, digital history, research methods, statistics, and data analysis.
