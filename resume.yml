@@ -24,11 +24,17 @@ content:
       username: shamrt
   work:
     - name: Vantage Inc.
-      startDate: Apr 2024
+      startDate: Mar 2024
       endDate:
-      position: TBD
+      position: Staff Front-end Developer
       summary: |
-        Details to be provided.
+        Lead front-end technical initiatives across the engineering organization, driving architecture, infrastructure modernization, developer experience, and mentorship for 40+ engineers.
+
+        - **Architected the Ad Builder and Campaign Creator** using factory and strategy patterns, delivering a modular, platform-agnostic system on an aggressive 6-month timeline with full test coverage
+        - **Reduced initial bundle size by 77%** (7MB to 1.6MB) through lazy-loaded routing, code splitting, and performance budgets; optimized CI from 20+ to ~10 minutes
+        - **Led Nx monorepo migrations** (v15 through v21) alongside Node, TypeScript, RTK, and Webpack-to-Vite migrations
+        - **Standardized i18n** by consolidating 50+ duplicate implementations into centralized Intl-based helpers, eliminating 1,000+ lines of code
+        - **Authored 280+ PRs and reviewed 1,200+** across two years, using reviews as mentorship opportunities; created "The Changeblog" (45+ posts) and extensive documentation
     - name: Plooto Inc.
       startDate: Jan 2023
       endDate: Mar 2024
@@ -123,8 +129,10 @@ content:
         - Playwright
         - Cypress
         - Storybook
+        - MSW
         - Webpack
         - Vite
+        - Nx
         - Monorepo Tooling
         - CI/CD
         - Docker
@@ -134,14 +142,19 @@ content:
         - MongoDB
         - SQLite
         - REST APIs
+        - Azure
         - Accessibility
+        - i18n/FormatJS
+        - Performance Optimization
     - name: Professional Skills
       level: Master
       keywords:
         - System Architecture
+        - Design Patterns
         - Technical Leadership
         - Mentoring
         - Team Building
+        - Developer Experience
         - RFC/Documentation
         - Code Review
   education:
