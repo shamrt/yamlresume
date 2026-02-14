@@ -195,3 +195,7 @@ layouts:
         - work
         - education
         - skills
+  - engine: html
+    template: calm
+  - engine: html
+    template: vscode
