@@ -96,6 +96,45 @@ content:
         - **Developed and maintained core web libraries** including the RBC web icons and styling (Sass) libraries, both fully tested
         - **Advocated for development standards and best practices** including automated testing, web accessibility, linting, git tooling (code reviews, conventional commits, semver), monorepo architecture, and CI/CD
         - **Mentored junior developers and co-op students**, working closely with them on code quality and professional development
+  skills:
+    - name: Technical Skills
+      level: Master
+      keywords:
+        - JavaScript
+        - TypeScript
+        - Node
+        - React
+        - Redux
+        - Ember
+        - Angular
+        - Ruby
+        - Python
+        - R
+        - C
+        - TDD/BDD
+        - Jest
+        - React Testing Library
+        - Playwright
+        - Cypress
+        - Storybook
+        - Webpack
+        - Vite
+        - Monorepo Tooling
+        - CI/CD
+        - Docker
+        - Git
+        - PostgreSQL
+        - MySQL
+        - MongoDB
+        - SQLite
+        - CSS-in-JS
+        - Sass
+        - Semantic HTML
+        - Accessibility
+        - REST APIs
+        - System Architecture
+        - Technical Leadership
+        - Mentoring
   education:
     - institution: York University
       degree: Bachelor
