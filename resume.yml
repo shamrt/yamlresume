@@ -23,6 +23,18 @@ content:
       url: https://github.com/shamrt
       username: shamrt
   work:
+    - name: Plooto Inc.
+      startDate: Jan 2023
+      endDate: Mar 2024
+      position: Staff Front-end Developer
+      summary: |
+        Overhauled and modernized the front-end architecture of a 9-year-old Durandal (Knockout) application as part of a comprehensive platform modernization effort.
+
+        - **Led migration to React** including introducing modern build tooling (Webpack, code-splitting, tree-shaking), a new component library (Storybook + MUI), and standardized patterns for i18n, data fetching, and config management
+        - **Grew test coverage from ~2% to over 30%** via new testing standards, guardrails, and developer experience enhancements
+        - **Reduced CI pipeline runtime from 10+ minutes to 5 minutes** despite adding many new checks, using caching, parallelization, and test suite optimizations
+        - **Reorganized codebase** using Yarn workspaces and Bulletproof architecture
+        - **Wrote RFCs, guidelines, and roadmaps** to guide Engineering team technical direction
     - name: RewardOps
       startDate: Jan 2022
       endDate: Jan 2023
