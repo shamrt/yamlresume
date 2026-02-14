@@ -4,8 +4,9 @@
   "description": "YAMLResume project for Shane Martin",
   "scripts": {
     "build:tex": "yamlresume build --no-pdf resume.yml",
+    "build:theme-tweaks": "sh ./scripts/remove_keywords.sh resume.tex",
     "build:pdf": "xelatex resume.tex",
-    "build": "npm run build:tex && npm run build:pdf",
+    "build": "npm run build:tex && npm run build:theme-tweaks && npm run build:pdf",
     "dev": "yamlresume dev resume.yml",
     "validate": "yamlresume validate resume.yml",
     "yamlresume": "yamlresume",
