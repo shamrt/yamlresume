@@ -144,3 +144,28 @@ content:
       endDate: Apr 30, 2015
       summary: |
         Graduated summa cum laude. Research focused on meta-cognition, digital history, research methods, statistics, and data analysis.
+
+locale:
+  language: en
+
+layouts:
+  - engine: latex
+    page:
+      margins:
+        top: 2.5cm
+        left: 1.5cm
+        right: 1.5cm
+        bottom: 2.5cm
+      showPageNumbers: false
+    template: moderncv-casual
+    typography:
+      fontSize: 11pt
+    sections:
+      aliases:
+        basics: Summary
+        work: Experience
+      order:
+        - basics
+        - work
+        - education
+        - skills
