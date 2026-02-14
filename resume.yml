@@ -166,7 +166,7 @@ layouts:
         right: 1.5cm
         bottom: 2.5cm
       showPageNumbers: false
-    template: moderncv-casual
+    template: moderncv-banking
     typography:
       fontSize: 11pt
     sections:
