@@ -23,6 +23,50 @@ content:
       url: https://github.com/shamrt
       username: shamrt
   work:
+    - name: RewardOps
+      startDate: Jan 2022
+      endDate: Jan 2023
+      position: Front-end Architect
+      summary: |
+        Led front-end architecture evolution across the platform, driving major modernization initiatives and developer experience improvements.
+
+        - **Led development of a new React app** on a tight timeline: major feature development, E2E and mocking frameworks, partner SSO integration
+        - **Led front-end re-architecture** increasing Jest test speed 2X, optimizing build bundles, and converting from Webpack to Vite (30X dev build time improvement)
+        - **Managed RushJS monorepo** including DX enhancements, automations (git hooks), re-wrote tooling, and eliminated over 95% of noise in Jest test suites
+        - **Introduced Redux Toolkit Query** for data fetching, eliminating 90% of boilerplate code
+        - **Combined Node server applications**, eliminating over 30K lines of superfluous code
+    - name: RewardOps
+      startDate: Jun 2019
+      endDate: May 2022
+      position: Software Development Manager
+      summary: |
+        Built and managed the development team while maintaining hands-on technical leadership and driving product quality improvements.
+
+        - **Built an entire dev team from scratch** managing up to 11 direct reports with biweekly 1-on-1s, mentoring, and team advocacy
+        - **Partnered with Product and stakeholders** to maximize product quality, improve feedback loops, and encourage product participation
+        - **Mentored other team leads and managers** while championing knowledge dissemination, documentation, and learning culture
+        - **Drove technical direction** through code/design reviews, RFCs, architecture documentation, roadmap planning, hiring, and onboarding
+    - name: RewardOps
+      startDate: Jun 2019
+      endDate: Jan 2022
+      position: Lead Software Developer
+      summary: |
+        Technical lead driving the Admin Console project and key product launches while modernizing the front-end stack.
+
+        - **Led technical design and implementation of MXaaS** (Member Experience as a Service) from inception to product launch in 2020
+        - **Shepherded Ember-to-React transition** including modernizing a 3-years-out-of-date Ember library and developing integration tools
+        - **Improved Ember test suite throughput 5X** (7 min to 1.5 min) and cold/warm boot times 2X
+        - **Overhauled core Node SDK library** and guided multiple large Ember app and addon upgrades including transition to Ember Octane
+    - name: RewardOps
+      startDate: Mar 2019
+      endDate: Jun 2019
+      position: Senior Software Developer
+      summary: |
+        Contributed features and drove coding standards improvements across the front-end codebase.
+
+        - **Doubled Ember test suite speed** (from 11 to under 7 minutes) and added code coverage
+        - **Integrated rigorous coding standards** into SDLC: linting, formatting, git hooks, inline documentation, CI pipeline checks including SonarCloud
+        - **Successfully campaigned to unify the company around React** as the front-end development framework
     - name: RBC
       startDate: Oct 2016
       endDate: Feb 2019
