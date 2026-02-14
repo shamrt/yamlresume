@@ -109,4 +109,5 @@ dist
 *.lot
 *.fls
 *.tex
+*.tex.bak
 *.pdf
