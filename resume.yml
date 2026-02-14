@@ -97,7 +97,7 @@ content:
         - **Advocated for development standards and best practices** including automated testing, web accessibility, linting, git tooling (code reviews, conventional commits, semver), monorepo architecture, and CI/CD
         - **Mentored junior developers and co-op students**, working closely with them on code quality and professional development
   skills:
-    - name: Technical Skills
+    - name: Languages & Frameworks
       level: Master
       keywords:
         - JavaScript
@@ -111,6 +111,12 @@ content:
         - Python
         - R
         - C
+        - CSS-in-JS
+        - Sass
+        - Semantic HTML
+    - name: Tools & Infrastructure
+      level: Master
+      keywords:
         - TDD/BDD
         - Jest
         - React Testing Library
@@ -127,14 +133,17 @@ content:
         - MySQL
         - MongoDB
         - SQLite
-        - CSS-in-JS
-        - Sass
-        - Semantic HTML
-        - Accessibility
         - REST APIs
+        - Accessibility
+    - name: Professional Skills
+      level: Master
+      keywords:
         - System Architecture
         - Technical Leadership
         - Mentoring
+        - Team Building
+        - RFC/Documentation
+        - Code Review
   education:
     - institution: York University
       degree: Bachelor
