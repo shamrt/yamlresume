@@ -22,6 +22,18 @@ content:
     - network: GitHub
       url: https://github.com/shamrt
       username: shamrt
+  work:
+    - name: RBC
+      startDate: Oct 2016
+      endDate: Feb 2019
+      position: Senior Front-End Developer
+      summary: |
+        Developed and maintained Angular apps for various online banking modernization projects within RBC's digital transformation initiative.
+
+        - **Created RBC Digital Frameworks component library** (POC) based on existing design patterns, with full unit, E2E, visual regression, and accessibility test coverage
+        - **Developed and maintained core web libraries** including the RBC web icons and styling (Sass) libraries, both fully tested
+        - **Advocated for development standards and best practices** including automated testing, web accessibility, linting, git tooling (code reviews, conventional commits, semver), monorepo architecture, and CI/CD
+        - **Mentored junior developers and co-op students**, working closely with them on code quality and professional development
   education:
     - institution: York University
       degree: Bachelor
