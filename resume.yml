@@ -23,6 +23,12 @@ content:
       url: https://github.com/shamrt
       username: shamrt
   work:
+    - name: Vantage Inc.
+      startDate: Apr 2024
+      endDate:
+      position: TBD
+      summary: |
+        Details to be provided.
     - name: Plooto Inc.
       startDate: Jan 2023
       endDate: Mar 2024
@@ -86,7 +92,7 @@ content:
       summary: |
         Developed and maintained Angular apps for various online banking modernization projects within RBC's digital transformation initiative.
 
-        - **Created RBC Digital Frameworks component library** (POC) based on existing design patterns, with full unit, E2E, visual regression, and accessibility test coverage
+        - **Led initial development of RBC's design system ("RIG")** which is now ubiquitous throughout RBC's businesses, building the fully tested (unit, E2E, visual regression, and accessibility) component library based on existing design patterns
         - **Developed and maintained core web libraries** including the RBC web icons and styling (Sass) libraries, both fully tested
         - **Advocated for development standards and best practices** including automated testing, web accessibility, linting, git tooling (code reviews, conventional commits, semver), monorepo architecture, and CI/CD
         - **Mentored junior developers and co-op students**, working closely with them on code quality and professional development
