@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://yamlresume.dev/schema.json
+---
+content:
+  basics:
+    name: Shane Martin
+    headline: Software Developer & Front-End Architect
+    phone: "REDACTED"
+    email: sh@nemart.in
+    summary: |
+      - Experienced software developer with 18+ years building for the web, specializing in front-end architecture, design systems, developer experience, and engineering leadership.
+      - Deep expertise in modernizing legacy codebases, building component libraries, and establishing robust development standards and tooling that help teams deliver better software faster.
+      - Background in research methods and data analysis from a Specialized Honours Psychology degree at York University.
+
+  location:
+    city: Toronto
+    region: Ontario
+    country: Canada
+  profiles:
+    - network: LinkedIn
+      url: https://www.linkedin.com/in/shamrt/
+      username: shamrt
+    - network: GitHub
+      url: https://github.com/shamrt
+      username: shamrt
