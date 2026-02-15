@@ -2,6 +2,8 @@
 
 A resume managed as modular YAML files, compiled to PDF, HTML, and LaTeX using [yamlresume](https://yamlresume.dev).
 
+The HTML version is published to [GitHub Pages](https://sha.nemart.in).
+
 ## How it works
 
 Resume content lives in `src/` as separate YAML files (`basics.yml`, `work.yml`, `education.yml`, `skills.yml`, `config.yml`). A build pipeline assembles them into a single `resume.yml`, compiles to LaTeX/HTML, applies post-processing tweaks, and generates a final PDF.
