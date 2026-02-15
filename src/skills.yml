@@ -12,9 +12,6 @@ skills:
       - Ruby
       - Python
       - R
-      - C
-      - CSS-in-JS
-      - Sass
       - Semantic HTML
   - name: Tools & Infrastructure
     level: Master
@@ -35,19 +32,18 @@ skills:
       - Git
       - PostgreSQL
       - MySQL
-      - MongoDB
       - SQLite
       - REST APIs
       - Azure
       - Accessibility
       - i18n/FormatJS
-      - Performance Optimization
   - name: Professional Skills
     level: Master
     keywords:
       - System Architecture
       - Design Patterns
       - Technical Leadership
+      - Performance Optimization
       - Mentoring
       - Team Building
       - Developer Experience
