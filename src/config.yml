@@ -1,0 +1,26 @@
+locale:
+  language: en
+
+layouts:
+  - engine: latex
+    page:
+      margins:
+        top: 2.5cm
+        left: 1.5cm
+        right: 1.5cm
+        bottom: 2.5cm
+      showPageNumbers: false
+    template: moderncv-banking
+    typography:
+      fontSize: 11pt
+    sections:
+      aliases:
+        basics: Summary
+        work: Experience
+      order:
+        - basics
+        - work
+        - education
+        - skills
+  - engine: html
+    template: vscode

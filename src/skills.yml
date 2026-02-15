@@ -1,0 +1,55 @@
+skills:
+  - name: Languages & Frameworks
+    level: Master
+    keywords:
+      - JavaScript
+      - TypeScript
+      - Node
+      - React
+      - Redux
+      - Ember
+      - Angular
+      - Ruby
+      - Python
+      - R
+      - C
+      - CSS-in-JS
+      - Sass
+      - Semantic HTML
+  - name: Tools & Infrastructure
+    level: Master
+    keywords:
+      - TDD/BDD
+      - Jest
+      - React Testing Library
+      - Playwright
+      - Cypress
+      - Storybook
+      - MSW
+      - Webpack
+      - Vite
+      - Nx
+      - Monorepo Tooling
+      - CI/CD
+      - Docker
+      - Git
+      - PostgreSQL
+      - MySQL
+      - MongoDB
+      - SQLite
+      - REST APIs
+      - Azure
+      - Accessibility
+      - i18n/FormatJS
+      - Performance Optimization
+  - name: Professional Skills
+    level: Master
+    keywords:
+      - System Architecture
+      - Design Patterns
+      - Technical Leadership
+      - Mentoring
+      - Team Building
+      - Developer Experience
+      - RFC/Documentation
+      - Code Review
