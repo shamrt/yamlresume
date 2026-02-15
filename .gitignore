@@ -102,6 +102,7 @@ dist
 .pnp.*
 
 # YAMLResume build output
+resume.yml
 *.aux
 *.out
 *.toc
