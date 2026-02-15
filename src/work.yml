@@ -4,73 +4,67 @@ work:
     endDate:
     position: Staff Front-end Developer
     summary: |
-      Lead front-end technical initiatives across the engineering organization, driving architecture, infrastructure modernization, developer experience, and mentorship for a team of 40+ engineers.
+      Drive front-end architecture, infrastructure, and developer experience across a 40+ engineer organization.
 
-      - **Architected the Ad Builder and Campaign Creator** using factory and strategy patterns, delivering a modular, platform-agnostic ad creation system on an aggressive 6-month timeline with full test coverage (Jest, Storybook, MSW)
-      - **Built and refined a banner rendering system** for THDCA, including localization, event tracking, CDN integration, visual regression testing, and bundle optimization (under 100KB)
-      - **Reduced initial JavaScript bundle size by 77%** (7MB to 1.6MB) through lazy-loaded routing, code splitting, and webpack performance budgets
-      - **Optimized CI pipelines from 20+ minutes to ~10 minutes** and improved Jest test throughput by ~400% through caching, parallelization, and Nx-based affected-test execution
-      - **Led Nx monorepo migrations** (v15 through v21) alongside Node 22, TypeScript 5.8, RTK v2, and Webpack-to-Vite migrations
-      - **Standardized internationalization** by consolidating 50+ duplicate formatting implementations into centralized Intl-based helpers, eliminating 1,000+ lines of duplicate code
-      - **Authored 280+ PRs and reviewed 1,200+** across two years, using reviews as mentorship opportunities with detailed, educational feedback
-      - **Created "The Changeblog"**, a widely-read internal digest of front-end platform changes (45+ posts), and maintained extensive Confluence documentation and guides
-      - **Integrated Storybook into the Nx monorepo** with visual regression testing, interaction tests, and auto-deployment to Chromatic
+      - **Architected a modular, platform-agnostic ad creation system** using factory and strategy patterns, with extensibility for future platforms
+      - **Reduced initial bundle by 77%** through lazy-loaded routing, code splitting, and webpack budgets, establishing performance governance
+      - **Drove toolchain evolution** — Nx migrations (v15–v21), Node 22, TypeScript 5.8, Webpack-to-Vite — halving CI feedback cycles and positioning the codebase for sustainable growth
+      - **Replaced 50+ scattered i18n implementations** with centralized Intl-based utilities and ESLint rules, so developers default to correct, locale-aware formatting
+      - **Shaped front-end quality culture** through 1,200+ code reviews used as vehicles for mentorship and architectural alignment
+      - **Authored 45+ Changeblog posts** and migration guides, bridging platform knowledge gaps across the engineering organization
   - name: Plooto Inc.
     startDate: Jan 2023
     endDate: Mar 2024
     position: Staff Front-end Developer
     summary: |
-      Overhauled and modernized the front-end architecture of a 9-year-old Durandal (Knockout) application as part of a comprehensive platform modernization effort.
+      Defined the technical vision for modernizing a 9-year-old Durandal (Knockout) application, establishing architecture, tooling, and standards for a comprehensive platform overhaul.
 
-      - **Led migration to React** including introducing modern build tooling (Webpack, code-splitting, tree-shaking), a new component library (Storybook + MUI), and standardized patterns for i18n, data fetching, and config management
-      - **Grew test coverage from ~2% to over 30%** via new testing standards, guardrails, and developer experience enhancements
-      - **Reduced CI pipeline runtime from 10+ minutes to 5 minutes** despite adding many new checks, using caching, parallelization, and test suite optimizations
-      - **Reorganized codebase** using Yarn workspaces and Bulletproof architecture
-      - **Wrote RFCs, guidelines, and roadmaps** to guide Engineering team technical direction
+      - **Owned the React migration strategy** — modern build tooling, a component library (Storybook + MUI), and standardized patterns for i18n, data fetching, and configuration
+      - **Overhauled the build pipeline** enabling tree-shaking and code splitting, reducing the production payload from 15MB to under 500KB and eliminating 40K+ lines of vendored code
+      - **Grew test coverage from ~2% to over 30%** through testing standards and automated guardrails that made correct patterns the path of least resistance
+      - **Authored 20+ engineering proposals** shaping technical direction, from build strategy and code review norms to security enhancements for SOC 2 compliance
+      - **Coached the Design team on systems thinking** and component-first design, aligning workflows to minimize customization and accelerate UI development
   - name: RewardOps
     startDate: Jan 2022
     endDate: Jan 2023
     position: Front-end Architect
     summary: |
-      Led front-end architecture evolution across the platform, driving major modernization initiatives and developer experience improvements.
+      Drove front-end architecture and developer experience across the platform, leading major modernization and infrastructure initiatives.
 
-      - **Led development of a new React app** on a tight timeline: major feature development, E2E and mocking frameworks, partner SSO integration
-      - **Led front-end re-architecture** increasing Jest test speed 2X, optimizing build bundles, and converting from Webpack to Vite (30X dev build time improvement)
-      - **Managed RushJS monorepo** including DX enhancements, automations (git hooks), re-wrote tooling, and eliminated over 95% of noise in Jest test suites
-      - **Introduced Redux Toolkit Query** for data fetching, eliminating 90% of boilerplate code
-      - **Combined Node server applications**, eliminating over 30K lines of superfluous code
+      - **Led development of a new React application** on a tight timeline, establishing E2E testing frameworks, API mocking infrastructure, and partner SSO integration
+      - **Re-architected the front-end build pipeline**, migrating from Webpack to Vite (30X build improvement) and doubling Jest test throughput to keep developer feedback loops tight
+      - **Introduced Redux Toolkit Query** for data fetching, eliminating 90% of boilerplate and standardizing API interaction patterns across the platform
+      - **Consolidated redundant Node server applications**, eliminating over 30K lines of superfluous code and simplifying the operational footprint
   - name: RewardOps
     startDate: Jun 2019
     endDate: May 2022
     position: Software Development Manager
     summary: |
-      Built and managed the development team while maintaining hands-on technical leadership and driving product quality improvements.
+      Built and led the development team while maintaining hands-on technical leadership and driving product quality improvements.
 
-      - **Built an entire dev team from scratch** managing up to 11 direct reports with biweekly 1-on-1s, mentoring, and team advocacy
-      - **Partnered with Product and stakeholders** to maximize product quality, improve feedback loops, and encourage product participation
-      - **Mentored other team leads and managers** while championing knowledge dissemination, documentation, and learning culture
-      - **Drove technical direction** through code/design reviews, RFCs, architecture documentation, roadmap planning, hiring, and onboarding
+      - **Built the development team from scratch**, managing up to 11 direct reports with structured mentorship, career development, and team advocacy
+      - **Partnered with Product and stakeholders** to shape roadmap priorities, improve feedback loops, and raise product quality standards
+      - **Mentored team leads and managers** while championing documentation, knowledge sharing, and a learning-oriented engineering culture
+      - **Drove technical direction** through architecture reviews, RFCs, roadmap planning, hiring, and onboarding
   - name: RewardOps
     startDate: Jun 2019
     endDate: Jan 2022
     position: Lead Software Developer
     summary: |
-      Technical lead driving the Admin Console project and key product launches while modernizing the front-end stack.
+      Led technical delivery of key product launches while modernizing the front-end stack and establishing quality baselines.
 
-      - **Led technical design and implementation of MXaaS** (Member Experience as a Service) from inception to product launch in 2020
-      - **Shepherded Ember-to-React transition** including modernizing a 3-years-out-of-date Ember library and developing integration tools
-      - **Improved Ember test suite throughput 5X** (7 min to 1.5 min) and cold/warm boot times 2X
-      - **Overhauled core Node SDK library** and guided multiple large Ember app and addon upgrades including transition to Ember Octane
+      - **Led MXaaS (Member Experience as a Service)** from technical design through product launch, coordinating across engineering and product teams
+      - **Drove the Ember-to-React transition**, modernizing a 3-years-stale Ember library and building integration tooling to enable incremental adoption
+      - **Improved Ember test suite throughput 5X** and overhauled the core Node SDK, establishing performance and reliability baselines across the stack
   - name: RewardOps
     startDate: Mar 2019
     endDate: Jun 2019
     position: Senior Software Developer
     summary: |
-      Contributed features and drove coding standards improvements across the front-end codebase.
+      Established front-end coding standards and built consensus around the platform's technical direction.
 
-      - **Doubled Ember test suite speed** (from 11 to under 7 minutes) and added code coverage
-      - **Integrated rigorous coding standards** into SDLC: linting, formatting, git hooks, inline documentation, CI pipeline checks including SonarCloud
-      - **Successfully campaigned to unify the company around React** as the front-end development framework
+      - **Integrated automated quality gates into the SDLC** — linting, formatting, git hooks, and CI checks including SonarCloud — making it easier to ship correct code than to bypass standards
+      - **Championed React adoption company-wide**, building the technical case that led to the platform's front-end framework transition
   - name: RBC
     startDate: Oct 2016
     endDate: Feb 2019
