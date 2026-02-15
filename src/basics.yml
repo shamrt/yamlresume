@@ -3,9 +3,9 @@ basics:
   headline: Software Developer & Front-End Architect
   email: sh@nemart.in
   summary: |
-    - Experienced software developer with {{years_experience}}+ years building for the web, specializing in front-end architecture, design systems, developer experience, and engineering leadership.
-    - Deep expertise in modernizing legacy codebases, building component libraries, and establishing robust development standards and tooling that help teams deliver better software faster.
-    - Background in research methods and data analysis from a Specialized Honours Psychology degree at York University.
+    - Staff-level front-end architect specializing in design systems, developer experience, and scalable front-end infrastructure, backed by {{years_experience}}+ years of web development.
+    - Research-driven and standards-oriented — favours conventional, well-tested solutions over homegrown ones, and backs up technical decisions with data. Deliberate and process-oriented: breaks down complex problems, builds consensus through RFCs and clear documentation, and brings a steady, structured approach to technical decision-making.
+    - Deep focus on developer experience: builds component libraries, testing strategies, monorepo tooling, and CI/CD pipelines that remove friction and help engineers ship better software faster.
 
 location:
   city: Toronto
