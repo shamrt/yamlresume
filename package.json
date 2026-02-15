@@ -24,6 +24,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "yaml": "^2.8.2",
     "yamlresume": "latest"
   },
   "devDependencies": {
